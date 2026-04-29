@@ -1,3 +1,32 @@
 # DATA-ANALYST-PROJECTS
-SUPERSTORE DATA 
-<img width="1400" height="590" alt="image" src="https://github.com/user-attachments/assets/51db0043-9a7f-4e9a-9135-70b6f1ed6bab" />
+SUPERSTORE DATA ANALYST 
+
+HERE I CLEAN THE DATA THAT USING TRIM, REMOVE DUPLICATES AND TEXT TO COLUMN TO SPLIT CLEANLY THE HEADER ROW AND ALL THE DATA INTO PROPER FORMAT..
+<img width="1896" height="969" alt="image" src="https://github.com/user-attachments/assets/c1488116-5b3d-4b80-a99e-b9f46d925450" />
+
+THEN I CREATE A DASHBOARD USING PIVOT TABLE TO MAKE AN ANALYSIS 
+
+
+BASED ON CATEGORY, SUB CATEGORY AND PROFIT, HERE I MAKE A PIVOT TABLE AND I ADD A LINE CHART, A SLICER FOR REGION AND TIMELINE.
+<img width="1566" height="553" alt="image" src="https://github.com/user-attachments/assets/8189e0ba-734d-43ba-b221-4073c85c314e" />
+
+THEN I MAKE AN ANALYSIS BASED ON CATEGORY, SUB CATEGORY AND PROFIT
+<img width="1160" height="314" alt="image" src="https://github.com/user-attachments/assets/6647564c-a82c-44ac-8a4c-f21360bbf070" />
+
+NEXT IS I MAKE ANOTHER PIVOT TABLE FOR REGION, STATE, QUANTITY AND CATEGORY AND I ADD A CLUSTERED COLUMN TO COMPARE WHO HAS THE MOST TOTAL OF QUANTITY VOLUME, AND I ADD A SLICER FOR REGION.
+<img width="1269" height="477" alt="image" src="https://github.com/user-attachments/assets/b0c6f10c-2026-4040-84ae-a99e0b5efe7b" />
+
+THEN I MAKE A REPORT BASED ON THE TABLE AND CHART THEN COMBINE THE TWO MODEL TO MAKE A SUGGESTION TO WHAT CAN WE DO 
+<img width="1652" height="543" alt="image" src="https://github.com/user-attachments/assets/38dcf6dd-d47c-4005-8edc-3e5fe53d85da" />
+
+
+
+
+ 
+
+
+
+
+
+
+
