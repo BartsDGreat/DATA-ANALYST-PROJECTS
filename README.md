@@ -1,4 +1,3 @@
-
 SUPERSTORE DATA ANALYST 
 Tools Used
 Microsoft Excel
