@@ -8,7 +8,8 @@ THEN I CREATE A DASHBOARD USING PIVOT TABLE TO MAKE AN ANALYSIS
 
 
 BASED ON CATEGORY, SUB CATEGORY AND PROFIT, HERE I MAKE A PIVOT TABLE AND I ADD A LINE CHART, A SLICER FOR REGION AND TIMELINE.
-<img width="1276" height="459" alt="image" src="https://github.com/user-attachments/assets/fc9862ba-344d-4b11-845d-418af622e90a" />
+<img width="1277" height="450" alt="image" src="https://github.com/user-attachments/assets/85fc39c1-98a2-4300-8d54-6dd7c749f910" />
+
 
 
 THEN I MAKE A REPORT BASED ON CATEGORY, SUB CATEGORY AND PROFIT
