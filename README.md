@@ -17,9 +17,9 @@ THEN I MAKE A REPORT BASED ON CATEGORY, SUB CATEGORY AND PROFIT
 NEXT IS I MAKE ANOTHER PIVOT TABLE FOR REGION, STATE, QUANTITY AND CATEGORY AND I ADD A CLUSTERED COLUMN TO COMPARE WHO HAS THE MOST TOTAL OF QUANTITY VOLUME, AND I ADD A SLICER FOR REGION.
 <img width="1232" height="461" alt="image" src="https://github.com/user-attachments/assets/366d1446-1d1d-470e-ab11-3756f268811a" />
 
-
 THEN I MAKE A REPORT BASED ON THE TABLE AND CHART THEN COMBINE THE TWO MODEL TO MAKE A SUGGESTION TO WHAT CAN WE DO 
-<img width="1652" height="543" alt="image" src="https://github.com/user-attachments/assets/38dcf6dd-d47c-4005-8edc-3e5fe53d85da" />
+<img width="1581" height="446" alt="image" src="https://github.com/user-attachments/assets/0cff0cf1-3a93-43f8-9f64-de1b188c2334" />
+
 
 
 
