@@ -11,12 +11,12 @@ BASED ON CATEGORY, SUB CATEGORY AND PROFIT, HERE I MAKE A PIVOT TABLE AND I ADD 
 <img width="1277" height="450" alt="image" src="https://github.com/user-attachments/assets/85fc39c1-98a2-4300-8d54-6dd7c749f910" />
 
 
-
 THEN I MAKE A REPORT BASED ON CATEGORY, SUB CATEGORY AND PROFIT
 <img width="1160" height="314" alt="image" src="https://github.com/user-attachments/assets/6647564c-a82c-44ac-8a4c-f21360bbf070" />
 
 NEXT IS I MAKE ANOTHER PIVOT TABLE FOR REGION, STATE, QUANTITY AND CATEGORY AND I ADD A CLUSTERED COLUMN TO COMPARE WHO HAS THE MOST TOTAL OF QUANTITY VOLUME, AND I ADD A SLICER FOR REGION.
-<img width="1269" height="477" alt="image" src="https://github.com/user-attachments/assets/b0c6f10c-2026-4040-84ae-a99e0b5efe7b" />
+<img width="1232" height="461" alt="image" src="https://github.com/user-attachments/assets/366d1446-1d1d-470e-ab11-3756f268811a" />
+
 
 THEN I MAKE A REPORT BASED ON THE TABLE AND CHART THEN COMBINE THE TWO MODEL TO MAKE A SUGGESTION TO WHAT CAN WE DO 
 <img width="1652" height="543" alt="image" src="https://github.com/user-attachments/assets/38dcf6dd-d47c-4005-8edc-3e5fe53d85da" />
